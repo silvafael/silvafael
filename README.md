@@ -22,21 +22,21 @@
 <br>
 <h3>Atualmente estudando</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="src/icons/skills/react.svg" width="40" height="40" alt="Reagir" /></a>
-<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="src/icons/currentlyStudying/typescript.svg" width="40" height="40" alt=" Datilografado"></a>
-<a href="https://nodejs.org/en/" rel="nofollow"><img src="src/icons/currentlyStudying/nodejs.svg" width="40" height="40" alt=" NodeJS"></a>
-<a href="https://www.php.net/" rel="nofollow"><img src="src/icons/currentlyStudying/php.svg" width="40" height="40" alt=" PHP"></a>
-<a href="https://www.mysql.com" rel="nofollow"><img src="src/icons/currentlyStudying/mysql.svg" width="40" height="40" alt="Mysql "></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="src/icons/skills/typescript.svg" width="40" height="40" alt=" Datilografado"></a>
+<a href="https://nodejs.org/en/" rel="nofollow"><img src="src/icons/skills/nodejs.svg" width="40" height="40" alt=" NodeJS"></a>
+<a href="https://www.php.net/" rel="nofollow"><img src="src/icons/skills/php.svg" width="40" height="40" alt=" PHP"></a>
+<a href="https://www.mysql.com" rel="nofollow"><img src="src/icons/skills/mysql.svg" width="40" height="40" alt="Mysql "></a>
 <br>
 <br>
 <br>
 <h3>Familiaridade</h3>
-<img src="src/icons/familiarity/windows.svg" width="40" height="40" alt="Windows">
-<img src="src/icons/familiarity/github.svg" width="40" height="40" alt="GitHub">
-<img src="src/icons/familiarity/git.svg" width="40" height="40" alt="Git">
-<img src="src/icons/familiarity/vitejs.svg" width="40" height="40" alt="Vite">
-<img src="src/icons/familiarity/npm.svg" width="40" height="40" alt="npm">
-<img src="src/icons/familiarity/yarn.svg" width="40" height="40" alt="Yarn">
-<img src="src/icons/familiarity/apache.svg" width="40" height="40" alt="Apache">
-<img src="src/icons/familiarity/vscode.svg" width="40" height="40" alt="VScode">
+<img src="src/icons/skills/windows.svg" width="40" height="40" alt="Windows">
+<img src="src/icons/skills/github.svg" width="40" height="40" alt="GitHub">
+<img src="src/icons/skills/git.svg" width="40" height="40" alt="Git">
+<img src="src/icons/skills/vitejs.svg" width="40" height="40" alt="Vite">
+<img src="src/icons/skills/npm.svg" width="40" height="40" alt="npm">
+<img src="src/icons/skills/yarn.svg" width="40" height="40" alt="Yarn">
+<img src="src/icons/skills/apache.svg" width="40" height="40" alt="Apache">
+<img src="src/icons/skills/vscode.svg" width="40" height="40" alt="VScode">
 </div>
 </main>
