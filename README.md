@@ -13,8 +13,8 @@
 : zap : Curiosidade: ***Nunca desista*** <br>
 
 <h3>Habilidades</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="src/icons/skills/html-5.png " " width="70" height="40" alt="HTML5" />
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="src/icons/skills/css-3.png " width="40" height="40" alt="Css" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="src/icons/skills/html5.png " " width="70" height="40" alt="HTML5" />
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="src/icons/skills/css3.png " width="40" height="40" alt="Css" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="src/icons/skills/js.png " width="40" height="40" alt="Javascript" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="src/icons/skills/sass.png" width="40" height=" 40" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="src/icons/skills/bootstrap.png" width="45" height="40" alt="Bootstrap" /></a>
