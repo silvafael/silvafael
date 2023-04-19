@@ -12,7 +12,7 @@
 
 <div align="center">
   
-:computer: I'm currently studying at [(https://www.cps.sp.gov.br/etecs/etec-salles-gomes/)] <br>
+:computer: I'm currently studying at [[Etec Sales Gomes]](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/) <br>
 :mailbox:	 You can contact me at [silvafael678@.com]<br>
 :eyes: interested in technologys that helps me solve problems <br>
 :zap: Fun Fact: ***Never Give Up*** <br>
