@@ -1,16 +1,21 @@
 <div align="center">
-<h1 align="center"> E aí ✌️, sou Rafael Silva ! </h1>
-<p>Tenho 18 anos, sempre fui fascinado por tecnologia, sempre procurando por que e como funcionam as coisas por trás das telas, atualmente estou cursando uma Escola Técnica no curso de Ensino Médio com Qualificação Profissional de Sistemas Técnico de Desenvolvimento.<br>Meu foco principal é o Front-End.</p>
-<h1 align="center"> Bem-vindo ao meu perfil do Github Sou Rafael Silva : wave : </h1> 
-<p>Sempre fui fascinado por tecnologia, sempre procurando por que e como as coisas por trás das telas funcionam, atualmente estou cursando uma Escola Técnica no curso de Ensino Médio com Qualificação Profissional de Técnico em Desenvolvimento de Sistemas.<br>Meus o foco principal é o Front-End.</p>
+<h1 align="center">Welcome to my Github profile I'm Carlos Kaique :wave:</h1>
+<p>I've always been fascinated by technology, always looking for why and how things behind the screens work, I'm currently studying in a Technical School in the High School course with Professional Qualification of Systems Development Technician.<br>My main focus is the Front-End.</p>
 </div>
 <br>
 
+<main display="flex">
+<div class="img">
+<img width="450px" align="right" src="./src/assets/psx.gif" alt="Guy coding">
+</div>
 
-: computador : Atualmente estou estudando na [ Etec Salles Gomes ](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/) <br>
-: caixa de correio : 	 Você pode entrar em contato comigo em [silvafael678@gmail.com ]<br>
-: olhos : interessado em tecnologias que me ajudem a resolver problemas <br>
-: zap : Curiosidade: ***Nunca desista*** <br>
+
+<div align="center">
+  
+:computer: I'm currently studying at [Etec Salles Gomes](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/) <br>
+:mailbox:	 You can contact me at [kaike1065@outlook.com](mailto:kaike1065@outlook.com)<br>
+:eyes: interested in technologys that helps me solve problems <br>
+:zap: Fun Fact: ***Never Give Up*** <br>
 
 <h3>Habilidades</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="src/icons/skills/html5.svg " " width="40" height="40" alt="HTML5" />
