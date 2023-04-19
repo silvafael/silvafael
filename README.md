@@ -6,7 +6,7 @@
 
 <main display="flex">
 <div class="img">
-<img width="450px" align="right" src="./src/assets/psx.gif" alt="Guy coding">
+<img width="450px" align="right" src="./src/icons/psx.gif" alt="Guy coding">
 </div>
 
 
@@ -40,7 +40,6 @@
 <img src="src/icons/skills/git.svg" width="40" height="40" alt="Git">
 <img src="src/icons/skills/vitejs.svg" width="40" height="40" alt="Vite">
 <img src="src/icons/skills/npm.svg" width="40" height="40" alt="npm">
-<img src="src/icons/skills/yarn.svg" width="40" height="40" alt="Yarn">
 <img src="src/icons/skills/apache.svg" width="40" height="40" alt="Apache">
 <img src="src/icons/skills/vscode.svg" width="40" height="40" alt="VScode">
 </div>
